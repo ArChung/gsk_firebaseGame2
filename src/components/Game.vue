@@ -50,7 +50,7 @@ export default {
       qTxt: [
         "在immune cycle 中, 像Tecentriq 這類的anti-PD-L1的藥物會在哪幾個部分發揮作用?",
         "Tecentriq 癌自禦在不適用cisplatin的局部轉移或晚期泌尿道上皮癌病患中, mOS可以達到幾個月?",
-        '您知道" 腎上老人 一路過八八"是因為以下原因，對或錯?<br/>腎: 腎功能CCR < 60 mg/mL的病患,(mOS=16.3m)<br/>上:上泌尿道上皮癌 ,(mOS=33m)<br/>老: 年紀>80歲,(mOS=21.3m)<br/>人: ECOS=0的病人 (mOS= 25m)<br/>以上病患在trial 中都顯示超過8+8=18個月的OS.',
+        '您知道" 腎上老人 一路過八八"是因為以下原因，對或錯?<br/>腎: 腎功能CCR < 60 mg/mL的病患,(mOS=16.3m)<br/>上:上泌尿道上皮癌 ,(mOS=33m)<br/>老: 年紀>80歲,(mOS=21.3m)<br/>人: ECOS=0的病人 (mOS= 25m)<br/>以上病患在trial 中都顯示超過8+8=16個月的OS.',
       ],
       aTxt: [
         {
