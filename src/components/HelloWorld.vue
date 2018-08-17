@@ -163,7 +163,7 @@ export default {
 #form .pageContainer {
   background-image: url("../assets/images/form.png");
   width: 545px;
-  height: 520px;
+  height: 540px;
   margin: 150px auto 0;
   position: relative;
 }
