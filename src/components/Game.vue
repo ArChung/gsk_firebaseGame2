@@ -190,7 +190,7 @@ export default {
   text-align: center;
   font-size: 30px;
   font-weight: bold;
-  margin: 0 auto 30px;
+  margin: 0 auto 15px;
   background-size: 100% 100%;
   padding: 20px;
   box-sizing: border-box;
@@ -202,15 +202,13 @@ export default {
   
 }
 .question{
-  font-size: 30px;
+  font-size: 24px;
   font-weight: bold;
-  margin: 0 auto 50px;
-  margin-bottom: 50px;
-  min-height: 150px;
+  margin: 15px auto;
+  /* min-height: 150px; */
   padding: 20px 15px;
   border: 1px solid #555;
   background-color: #F0E2C3;
-  margin-top: 30px;
   box-shadow: 3px 3px 3px #555;
   border-radius: 10px;
   
@@ -261,7 +259,7 @@ export default {
   background-image: url('../assets/images/wrong.png');
   position: absolute;
   top: -0px;
-  right: -35px;
+  right: -10px;
 }
 
 .right::after{
@@ -271,7 +269,7 @@ export default {
   background-image: url('../assets/images/right.png');
   position: absolute;
   top: -0px;
-  right: -35px;
+  right: -10px;
 }
 .count{
   position: absolute;
@@ -295,7 +293,7 @@ export default {
 }
 
 .gameBox{
-  width: 85%;
+  width: 95%;
 
 }
 .quesNo{
@@ -306,6 +304,5 @@ export default {
   display: inline-block;
   border: 1px solid #555;
   box-shadow: 3px 3px 3px #555;
-  margin-top: 30px;
 }
 </style>

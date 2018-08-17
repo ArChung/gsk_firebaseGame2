@@ -148,7 +148,7 @@ export default {
 }
 
 .pt-b {
-  padding-top: 80px;
+  padding-top: 30px;
 }
 .gameLogo {
   background-image: url("../assets/images/logo.png");
@@ -163,7 +163,7 @@ export default {
 #form .pageContainer {
   background-image: url("../assets/images/form.png");
   width: 545px;
-  height: 720px;
+  height: 520px;
   margin: 150px auto 0;
   position: relative;
 }
@@ -171,7 +171,7 @@ export default {
 #form .inputWrap {
   position: absolute;
   width: 523px;
-  top: 520px;
+  top: 320px;
   left: 5px;
 }
 
