@@ -76,10 +76,10 @@ export default {
         return;
       }
 
-      if (!this.validateEmail(this.userData.email)) {
-        alert("請輸入正確的email格式");
-        return;
-      }
+      // if (!this.validateEmail(this.userData.email)) {
+      //   alert("請輸入正確的email格式");
+      //   return;
+      // }
 
       this.database.push(this.userData).then(e => {
         console.log(e);
