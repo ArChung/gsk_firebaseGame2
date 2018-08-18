@@ -53,6 +53,8 @@ export default {
     gameover(data) {
       this.userData.score = +data.score > 98 ? 100 : data.score;
       this.userData.playTime = data.playTime;
+      this.userData.username = '';
+      this.userData.email = '';
       this.pageChannel = "form";
     },
     initFirebase() {
